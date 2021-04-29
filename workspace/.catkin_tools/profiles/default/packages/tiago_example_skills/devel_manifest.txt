@@ -1,0 +1,5 @@
+retail_store_lightweight_sim_students/tiago_example_skills
+/home/george/Desktop/workspace/devel/.private/tiago_example_skills/cmake.lock /home/george/Desktop/workspace/devel/./cmake.lock
+/home/george/Desktop/workspace/devel/.private/tiago_example_skills/share/tiago_example_skills/cmake/tiago_example_skillsConfig.cmake /home/george/Desktop/workspace/devel/share/tiago_example_skills/cmake/tiago_example_skillsConfig.cmake
+/home/george/Desktop/workspace/devel/.private/tiago_example_skills/share/tiago_example_skills/cmake/tiago_example_skillsConfig-version.cmake /home/george/Desktop/workspace/devel/share/tiago_example_skills/cmake/tiago_example_skillsConfig-version.cmake
+/home/george/Desktop/workspace/devel/.private/tiago_example_skills/lib/pkgconfig/tiago_example_skills.pc /home/george/Desktop/workspace/devel/lib/pkgconfig/tiago_example_skills.pc

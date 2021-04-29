@@ -1,0 +1,5 @@
+retail_store_lightweight_sim_students/pal_navigation_cfg_tiago_dual
+/home/george/Desktop/workspace/devel/.private/pal_navigation_cfg_tiago_dual/cmake.lock /home/george/Desktop/workspace/devel/./cmake.lock
+/home/george/Desktop/workspace/devel/.private/pal_navigation_cfg_tiago_dual/share/pal_navigation_cfg_tiago_dual/cmake/pal_navigation_cfg_tiago_dualConfig-version.cmake /home/george/Desktop/workspace/devel/share/pal_navigation_cfg_tiago_dual/cmake/pal_navigation_cfg_tiago_dualConfig-version.cmake
+/home/george/Desktop/workspace/devel/.private/pal_navigation_cfg_tiago_dual/share/pal_navigation_cfg_tiago_dual/cmake/pal_navigation_cfg_tiago_dualConfig.cmake /home/george/Desktop/workspace/devel/share/pal_navigation_cfg_tiago_dual/cmake/pal_navigation_cfg_tiago_dualConfig.cmake
+/home/george/Desktop/workspace/devel/.private/pal_navigation_cfg_tiago_dual/lib/pkgconfig/pal_navigation_cfg_tiago_dual.pc /home/george/Desktop/workspace/devel/lib/pkgconfig/pal_navigation_cfg_tiago_dual.pc
