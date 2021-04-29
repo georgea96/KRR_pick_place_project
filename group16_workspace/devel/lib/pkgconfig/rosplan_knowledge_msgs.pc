@@ -1,0 +1,1 @@
+/home/george/Desktop/group16_workspace/devel/.private/rosplan_knowledge_msgs/lib/pkgconfig/rosplan_knowledge_msgs.pc

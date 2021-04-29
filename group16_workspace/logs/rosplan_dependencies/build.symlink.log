@@ -1,0 +1,7 @@
+Symlinking /home/george/Desktop/group16_workspace/devel/share/rosplan_dependencies/cmake/rosplan_dependenciesConfig-version.cmake
+Symlinking /home/george/Desktop/group16_workspace/devel/share/rosplan_dependencies/cmake/rosplan_dependenciesConfig.cmake
+Symlinking /home/george/Desktop/group16_workspace/devel/lib/libippc_server.so
+Symlinking /home/george/Desktop/group16_workspace/devel/lib/libppddl_parser.so
+Symlinking /home/george/Desktop/group16_workspace/devel/lib/librddl_parser.so
+Symlinking /home/george/Desktop/group16_workspace/devel/lib/libval_kcl.so
+Symlinking /home/george/Desktop/group16_workspace/devel/lib/pkgconfig/rosplan_dependencies.pc

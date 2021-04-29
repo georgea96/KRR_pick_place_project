@@ -1,0 +1,1 @@
+/home/george/Desktop/group16_workspace/devel/.private/rosplan_knowledge_msgs/share/roseus/ros/rosplan_knowledge_msgs/msg/DomainOperator.l

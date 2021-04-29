@@ -1,0 +1,1 @@
+/home/george/Desktop/group16_workspace/devel/.private/tiago_custom_msgs/share/gennodejs/ros/tiago_custom_msgs/msg/PickResult.js

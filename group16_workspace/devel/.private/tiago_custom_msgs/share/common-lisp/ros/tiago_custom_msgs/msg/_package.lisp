@@ -1,0 +1,19 @@
+(cl:defpackage tiago_custom_msgs-msg
+  (:use )
+  (:export
+   "<PICKACTION>"
+   "PICKACTION"
+   "<PICKACTIONFEEDBACK>"
+   "PICKACTIONFEEDBACK"
+   "<PICKACTIONGOAL>"
+   "PICKACTIONGOAL"
+   "<PICKACTIONRESULT>"
+   "PICKACTIONRESULT"
+   "<PICKFEEDBACK>"
+   "PICKFEEDBACK"
+   "<PICKGOAL>"
+   "PICKGOAL"
+   "<PICKRESULT>"
+   "PICKRESULT"
+  ))
+
