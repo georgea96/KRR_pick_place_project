@@ -1,1 +1,0 @@
-/home/george/Desktop/group16_workspace/devel/.private/retail_store_simulation/lib/pkgconfig/retail_store_simulation.pc

@@ -1,8 +1,0 @@
-prefix=/home/george/Desktop/group16_workspace/install
-
-Name: retail_store_planning
-Description: Description of retail_store_planning
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: roscpp rospy std_msgs moveit_ros_planning moveit_ros_planning_interface moveit_core trajectory_msgs tiago_custom_msgs

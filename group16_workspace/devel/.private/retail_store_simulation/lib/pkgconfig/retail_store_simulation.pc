@@ -1,8 +1,0 @@
-prefix=/home/george/Desktop/group16_workspace/devel/.private/retail_store_simulation
-
-Name: retail_store_simulation
-Description: Description of retail_store_simulation
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

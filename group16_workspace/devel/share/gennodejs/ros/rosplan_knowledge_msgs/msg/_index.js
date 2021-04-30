@@ -1,1 +1,0 @@
-/home/george/Desktop/group16_workspace/devel/.private/rosplan_knowledge_msgs/share/gennodejs/ros/rosplan_knowledge_msgs/msg/_index.js
