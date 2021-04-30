@@ -31,7 +31,7 @@ In order to setup the repository follow the steps bellow from the directory with
 	    mkdir src
 	    cd src
 	    git clone  https://github.com/KCL-Planning/ROSPlan.git
-		git clone https://gitlab.tudelft.nl/cor/ro47014/2021_course_projects/group_16/retail_store_lightweight_sim_students.git
+		git clone https://github.com/georgea96/KRR_pick_place_project.git
 
 2) Add username and password
 3) Build The repository
