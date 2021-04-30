@@ -1,6 +1,0 @@
-ROSPlan/rosplan_rqt
-/home/george/Desktop/group16_workspace/devel/.private/rosplan_rqt/cmake.lock /home/george/Desktop/group16_workspace/devel/./cmake.lock
-/home/george/Desktop/group16_workspace/devel/.private/rosplan_rqt/share/rosplan_rqt/cmake/rosplan_rqtConfig-version.cmake /home/george/Desktop/group16_workspace/devel/share/rosplan_rqt/cmake/rosplan_rqtConfig-version.cmake
-/home/george/Desktop/group16_workspace/devel/.private/rosplan_rqt/share/rosplan_rqt/cmake/rosplan_rqtConfig.cmake /home/george/Desktop/group16_workspace/devel/share/rosplan_rqt/cmake/rosplan_rqtConfig.cmake
-/home/george/Desktop/group16_workspace/devel/.private/rosplan_rqt/lib/python2.7/dist-packages/rosplan_rqt/__init__.py /home/george/Desktop/group16_workspace/devel/lib/python2.7/dist-packages/rosplan_rqt/__init__.py
-/home/george/Desktop/group16_workspace/devel/.private/rosplan_rqt/lib/pkgconfig/rosplan_rqt.pc /home/george/Desktop/group16_workspace/devel/lib/pkgconfig/rosplan_rqt.pc

@@ -1,5 +1,0 @@
-retail_store_lightweight_sim_students/retail_store_simulation
-/home/george/Desktop/group16_workspace/devel/.private/retail_store_simulation/cmake.lock /home/george/Desktop/group16_workspace/devel/./cmake.lock
-/home/george/Desktop/group16_workspace/devel/.private/retail_store_simulation/share/retail_store_simulation/cmake/retail_store_simulationConfig.cmake /home/george/Desktop/group16_workspace/devel/share/retail_store_simulation/cmake/retail_store_simulationConfig.cmake
-/home/george/Desktop/group16_workspace/devel/.private/retail_store_simulation/share/retail_store_simulation/cmake/retail_store_simulationConfig-version.cmake /home/george/Desktop/group16_workspace/devel/share/retail_store_simulation/cmake/retail_store_simulationConfig-version.cmake
-/home/george/Desktop/group16_workspace/devel/.private/retail_store_simulation/lib/pkgconfig/retail_store_simulation.pc /home/george/Desktop/group16_workspace/devel/lib/pkgconfig/retail_store_simulation.pc
